@@ -1,0 +1,3 @@
+Frequency = 20
+Time = 20
+Amplitude = 1
