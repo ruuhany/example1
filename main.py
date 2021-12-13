@@ -7,7 +7,7 @@ eleman=list()
 count=0
 
 for line in stdin:
-   config.append(line)
+   config.append(line.splitlines())
 
 eleman.append("amplitude")
 eleman.append("frequency")
